@@ -1,7 +1,11 @@
 <!--Banner-->
 ![Kiran1689 Banner Image](https://lh3.googleusercontent.com/d/1nPtFjE0ADzQpn5YzZu0bGIMJ1Wfcxwog)
-ɪ'ᴍ Vamnaone
-<br />             
+I'm Vamnaone
+<br />  
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Kiran1689&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
+</p>
+           
 <p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
 
 - ✨ Student of life :)
