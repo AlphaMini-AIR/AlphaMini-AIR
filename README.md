@@ -1,6 +1,6 @@
 <!--Banner-->
 ![Kiran1689 Banner Image](https://lh3.googleusercontent.com/d/1nPtFjE0ADzQpn5YzZu0bGIMJ1Wfcxwog)
-I'm Vamnaone
+<h1>I'm Vamnaone</h1>
 <br />  
 ---
 <p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
