@@ -5,13 +5,8 @@
 <div>
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
-
-<!--Header Name-->
- ɪ'ᴍ Vamnaone
-*Digital Craftsman (Developer / Programmer)*
-<br /> 
-
-<!--Start Intro-->               
+ɪ'ᴍ Vamnaone
+<br />               
 <p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
 
 - ✨ Student of life :)
