@@ -1,5 +1,5 @@
 <!--Banner-->
-![Kiran1689 Banner Image]([./banner.png](https://lh3.googleusercontent.com/d/1nPtFjE0ADzQpn5YzZu0bGIMJ1Wfcxwog))
+![Kiran1689 Banner Image](https://lh3.googleusercontent.com/d/1nPtFjE0ADzQpn5YzZu0bGIMJ1Wfcxwog)
 
 <!--Night Owl image-->
 <div>
