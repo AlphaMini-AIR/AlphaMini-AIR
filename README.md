@@ -10,21 +10,6 @@
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
   <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
 </picture>
-<br />
-
-<h3 align="left">Current Learning</h3>
-
-<h3 align="left">Latest Blog Posts</h3>
-<ul align="left">
-  <li><a href="https://dev.to/dev_kiran/debug-like-a-pro-in-2025-3lg1">😎Debug Like a Pro in 2025🧑‍💻</a></li>
-  <li><a href="https://dev.to/dev_kiran/open-source-hidden-gems-v2-4e8j">✨Open-Source Hidden Gems v2🤯</a></li>
-  <li><a href="https://dev.to/dev_kiran/you-should-try-these-tools-in-your-next-project-469">🫵You Should Try These Tools In Your Next Project</a></li>
-</ul>
-<br />
-<br />
-<br />
-<br />
-
 
 <!--Trophies Section-->   
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
