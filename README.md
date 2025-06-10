@@ -1,9 +1,9 @@
 ---
 
-<h2 align="center">🌟 Al Pha Mini 🌟</h2>
+<h2 align="center">🤖 Al Pha Mini 🤖</h2>
 
 <p align="center">
-    Support to T
+    Support to AI Robotic
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
 
